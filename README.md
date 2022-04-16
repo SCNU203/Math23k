@@ -1,2 +1,3 @@
 # Math23k
-The Math23k dataset for downloading
+
+The original partition of Math23k dataset for downloading.
